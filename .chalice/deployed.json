@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "api_handler_name": "b2s_test-dev",
+    "api_handler_arn": "arn:aws:lambda:ap-northeast-1:475855480364:function:b2s_test-dev",
+    "lambda_functions": {},
+    "backend": "api",
+    "chalice_version": "1.1.0",
+    "rest_api_id": "t5mby8kmqj",
+    "api_gateway_stage": "api",
+    "region": "ap-northeast-1"
+  }
+}
